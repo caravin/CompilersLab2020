@@ -1,0 +1,279 @@
+//Base class 
+class Parent 
+{ 
+    public: int id_p; 
+b = 20
+    ; 
+;
+}; 
+   
+// Sub class inheriting from Base Class(Parent) 
+class Child : public Parent 
+{ 
+    public: 
+      int id_c; 
+}; 
+class Geeks 
+{ 
+    // Access specifier 
+public: 
+  
+    // Data Members 
+string geekname; \n
+
+    // Member Functions() 
+construct() 
+    { 
+        a = 10;
+    '\n' 
+        b = 20
+    ; 
+    } 
+Geeks() 
+    { 
+        a = 10; 
+        b = 20;
+    }
+void printname() 
+    { 
+       cout << "Geekname is: \n"<<endl;
+int c; " << geekname; 
+    } 
+class Complex { 
+private:  int real, imag; 
+public: 
+    Complex(int r = 0, int i =0)  {real = r;   imag = i;} 
+      
+    // This is automatically called when '+' is used with 
+    // between two Complex objects 
+    Complex operator + 
+    (Complex const &obj) { 
+         Complex res; 
+         res.real = real + obj.real;  res.imag = imag + obj.imag; 
+         return res; 
+    } 
+void print() { cout << real << " + i" << imag << endl; } 
+}; 
+    };
+int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    string s;
+    while(cin>>s){
+    cout<<s<<endl;
+    }
+    Child obj1,opb2,ob3; 
+           
+    // An object of class child has all data members 
+    // and member functions of class parent 
+    obj1.id_c = 7
+    ; 
+    obj1.id_p = 91; 
+    cout << "Child id is " <<  obj1.id_c << endl; 
+    cout << "Parent id is " <<  obj1.id_p << endl; 
+    Geeks obj1
+;
+    jasdjk ;Geeks obj2,obj3;
+    Geeks obj65;
+    Geeks obj25;
+Complex c1(10, 5), c2(2, 4); 
+    Complex c3 = c1 + c2; // An example call to "operator+" 
+    c3.print(); 
+string s=
+" "
+"class Parent "
+"{ "
+ "   public: "
+      "int id_p;" 
+"}; "
+; 
+
+    return 0;
+}
+//Base class 
+class Parent 
+{ 
+    public: int id_p; 
+b = 20
+    ; 
+;
+}; 
+   
+// Sub class inheriting from Base Class(Parent) 
+class Child : public Parent 
+{ 
+    public: 
+      int id_c; 
+}; 
+class Geeks 
+{ 
+    // Access specifier 
+public: 
+  
+    // Data Members 
+string geekname; \n
+
+    // Member Functions() 
+construct() 
+    { 
+        a = 10;
+    '\n' 
+        b = 20
+    ; 
+    } 
+Geeks() 
+    { 
+        a = 10; 
+        b = 20;
+    }
+void printname() 
+    { 
+       cout << "Geekname is: \n"<<endl;
+int c; " << geekname; 
+    } 
+class Complex { 
+private:  int real, imag; 
+public: 
+    Complex(int r = 0, int i =0)  {real = r;   imag = i;} 
+      
+    // This is automatically called when '+' is used with 
+    // between two Complex objects 
+    Complex operator + 
+    (Complex const &obj) { 
+         Complex res; 
+         res.real = real + obj.real;  res.imag = imag + obj.imag; 
+         return res; 
+    } 
+void print() { cout << real << " + i" << imag << endl; } 
+}; 
+    };
+int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    string s;
+    while(cin>>s){
+    cout<<s<<endl;
+    }
+    Child obj1,opb2,ob3; 
+           
+    // An object of class child has all data members 
+    // and member functions of class parent 
+    obj1.id_c = 7
+    ; 
+    obj1.id_p = 91; 
+    cout << "Child id is " <<  obj1.id_c << endl; 
+    cout << "Parent id is " <<  obj1.id_p << endl; 
+    Geeks obj1
+;
+    jasdjk ;Geeks obj2,obj3;
+    Geeks obj65;
+    Geeks obj25;
+Complex c1(10, 5), c2(2, 4); 
+    Complex c3 = c1 + c2; // An example call to "operator+" 
+    c3.print(); 
+string s=
+" "
+"class Parent "
+"{ "
+ "   public: "
+      "int id_p;" 
+"}; "
+; 
+
+    return 0;
+}
+//Base class 
+class Parent 
+{ 
+    public: int id_p; 
+b = 20
+    ; 
+;
+}; 
+   
+// Sub class inheriting from Base Class(Parent) 
+class Child : public Parent 
+{ 
+    public: 
+      int id_c; 
+}; 
+class Geeks 
+{ 
+    // Access specifier 
+public: 
+  
+    // Data Members 
+string geekname; \n
+
+    // Member Functions() 
+construct() 
+    { 
+        a = 10;
+    '\n' 
+        b = 20
+    ; 
+    } 
+Geeks() 
+    { 
+        a = 10; 
+        b = 20;
+    }
+void printname() 
+    { 
+       cout << "Geekname is: \n"<<endl;
+int c; " << geekname; 
+    } 
+class Complex { 
+private:  int real, imag; 
+public: 
+    Complex(int r = 0, int i =0)  {real = r;   imag = i;} 
+      
+    // This is automatically called when '+' is used with 
+    // between two Complex objects 
+    Complex operator + 
+    (Complex const &obj) { 
+         Complex res; 
+         res.real = real + obj.real;  res.imag = imag + obj.imag; 
+         return res; 
+    } 
+void print() { cout << real << " + i" << imag << endl; } 
+}; 
+    };
+int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    string s;
+    while(cin>>s){
+    cout<<s<<endl;
+    }
+    Child obj1,opb2,ob3; 
+           
+    // An object of class child has all data members 
+    // and member functions of class parent 
+    obj1.id_c = 7
+    ; 
+    obj1.id_p = 91; 
+    cout << "Child id is " <<  obj1.id_c << endl; 
+    cout << "Parent id is " <<  obj1.id_p << endl; 
+    Geeks obj1
+;
+    jasdjk ;Geeks obj2,obj3;
+    Geeks obj65;
+    Geeks obj25;
+Complex c1(10, 5), c2(2, 4); 
+    Complex c3 = c1 + c2; // An example call to "operator+" 
+    c3.print(); 
+string s=
+" "
+"class Parent "
+"{ "
+ "   public: "
+      "int id_p;" 
+"}; "
+; 
+
+    return 0;
+}

@@ -1,0 +1,47 @@
+
+lines taken by each class:---------------
+Parent 6
+Child 4
+Geeks 39
+Complex 16
+Parent 6
+Child 4
+Geeks 39
+Complex 16
+Parent 6
+Child 4
+Geeks 39
+Complex 16
+
+lines taken by each operator:---------------
++ 6
++ 6
++ 6
+
+lines taken by each inherited class:---------------
+Child 4
+Child 4
+Child 4
+
+lines taken by each constructs:---------------
+Geeks 5
+Complex 3
+Geeks 5
+Complex 3
+Geeks 5
+Complex 3
+
+main output---------------------------
+class lines tot :195
+obj lines tot : 39
+operatot lines tot : 18
+inherited lines tot : 12
+no constructs : 6
+
+
+extra outout sodhi---------------------------------
+no classes :12
+no object : 39
+no operators : 3
+no inherited : 3
+no constructs : 6
