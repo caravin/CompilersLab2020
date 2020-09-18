@@ -1,0 +1,61 @@
+                  class Geeks 
+{ 
+    // Access specifier 
+    public: 
+  
+    // Data Members 
+    string geekname; 
+  
+    // Member Functions() 
+    construct() 
+    { 
+        a = 10; 
+        b = 20; 
+    } 
+    Geeks() 
+    { 
+        a = 10; 
+        b = 20
+	; 
+    }
+ 	
+    void printname() 
+    { 
+       cout << "Geekname is: " << geekname; 
+    } 
+}; 
+
+
+
+class Complex { 
+private: 
+    int real, imag; 
+public: 
+    Complex(int r = 0, int i =0)  {real = r;   imag = i;} 
+    void print() { cout << real << " + i" << imag << endl; } 
+Complex operator + (Complex const &c1, Complex const &c2) 
+{ 
+     return Complex(c1.real + c2.real, c1.imag + c2.imag); 
+} 
+
+}; 
+  
+  
+
+
+int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    string s;string a;
+    while(cin>>s){
+        cout<<s<<endl;
+    }
+    for(ll i=0;i<5;i++){
+	string s;
+    }
+    Geeks obj1(a,v),obj2(a,b,c,c);
+    Geeks obj2;
+
+    return 0;
+}
