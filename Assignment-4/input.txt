@@ -1,0 +1,15 @@
+PROJECT <Data> (sample)
+PROJECT <salary,name> (Employee)
+
+SELECT <name="John" AND salary>2000> (Employee)
+SELECT <salary<200> (Employee)
+SELECT (Employee) <salary<200>
+
+(Employee)CARTESIAN_PRODUCT(Department)
+(CARTESIAN Profd (Wmployee)
+
+(student)EQUI_JOIN<student.dept_id=Department.id>(Department)
+(student)EQUI_JOIN<student.name=Department.id>(Department)
+(student)EQUI_JOIN<student.dept_id=student.id>(Department)
+(student)EQUI_JOIN<student.id=Department.id>(Department)
+
