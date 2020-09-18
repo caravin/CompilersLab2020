@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "lex.h"
+#include "lex.c"
 
 char    *factor     ( void );
 char    *term       ( void );
